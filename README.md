@@ -1,6 +1,6 @@
 # UIMotion
 UIMotion package provides simple animations for sliding, scaling and snapping.\
-Works for every UI scale mode of Canvas Scaler component, also is independent from position, anchors and pivot.
+Works for every UI scale mode of Canvas Scaler component, also is independent of position, anchors and pivot.
 
 Sample project can be cloned from here, also raw package is available under releases tab.
 
@@ -11,5 +11,5 @@ Attach the scripts to any GameObject in the hierarchy and assign Canvas to the s
 
 Call static methods from wherever you desire.
 
-AnimationCurves to manipulate motion and UnityEvents to be called after the motion can be passed as an argument to the methods.
+AnimationCurves to manipulate the motion and UnityEvents to be invoked after the motion can be passed as an argument to the methods.
 For furher information see the Documentation pdf in the Assets folder.
